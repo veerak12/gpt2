@@ -37,7 +37,7 @@ This project involves the development and training of a GPT-2 model from scratch
    pip install -r requirements.txt
 
 ### Project structure
-
+```plaintext
 GPT2-From-Scratch/
 ├── data/                # Contains raw text and CSV files for training
 ├── src/                 # Source code for dataset handling, model, and utilities
