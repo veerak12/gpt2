@@ -48,3 +48,5 @@ GPT2-From-Scratch/
 ├── main.py              # Entry point for training the model
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
+
+The implementation of the GPT-2 model in this project was inspired by the concepts and methods presented in the book 'Build a Large Language Model (From Scratch)' by Sebastian Raschka. The book provided valuable insights into neural network architectures and training processes, which I adapted to build the GPT-2 model.
