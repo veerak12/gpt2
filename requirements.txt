@@ -1,0 +1,8 @@
+# Dependencies
+torch        # PyTorch library for deep learning
+transformers # Hugging Face Transformers for GPT-2 model
+tiktoken      # Tokenizer for GPT-2
+scikit-learn  # For dataset splitting (train-test split)
+matplotlib   # For plotting training and validation loss
+tqdm         # For progress bars in training
+pandas #for data_reading
