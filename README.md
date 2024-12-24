@@ -51,4 +51,4 @@ GPT2-From-Scratch/
 
 ```
 ### Reference
-The implementation of the GPT-2 model in this project was inspired by the concepts and methods presented in the book 'Build a Large Language Model (From Scratch)' by ### Sebastian Raschka. This book provided valuable insights into neural network architectures and training processes, which I adapted to build the GPT-2 model.
+The implementation of the GPT-2 model in this project was inspired by the concepts and methods presented in the book '**Build a Large Language Model (From Scratch)' by Sebastian Raschka**. This book provided valuable insights into neural network architectures and training processes, which I adapted to build the GPT-2 model.
